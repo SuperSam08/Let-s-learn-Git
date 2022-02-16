@@ -1,2 +1,4 @@
 This is the text message. 
 And you are a good person.
+adding a new line
+so to check git status.
